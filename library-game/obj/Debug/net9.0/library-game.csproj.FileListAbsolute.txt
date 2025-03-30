@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\csapr5\library-game\bin\Debug\net9.0\library-game.exe
+C:\Users\Admin\Desktop\csapr5\library-game\bin\Debug\net9.0\library-game.deps.json
+C:\Users\Admin\Desktop\csapr5\library-game\bin\Debug\net9.0\library-game.runtimeconfig.json
+C:\Users\Admin\Desktop\csapr5\library-game\bin\Debug\net9.0\library-game.dll
+C:\Users\Admin\Desktop\csapr5\library-game\bin\Debug\net9.0\library-game.pdb
+C:\Users\Admin\Desktop\csapr5\library-game\obj\Debug\net9.0\library-game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\csapr5\library-game\obj\Debug\net9.0\library-game.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\csapr5\library-game\obj\Debug\net9.0\library-game.AssemblyInfo.cs
+C:\Users\Admin\Desktop\csapr5\library-game\obj\Debug\net9.0\library-game.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\csapr5\library-game\obj\Debug\net9.0\library-game.dll
+C:\Users\Admin\Desktop\csapr5\library-game\obj\Debug\net9.0\refint\library-game.dll
+C:\Users\Admin\Desktop\csapr5\library-game\obj\Debug\net9.0\library-game.pdb
+C:\Users\Admin\Desktop\csapr5\library-game\obj\Debug\net9.0\library-game.genruntimeconfig.cache
+C:\Users\Admin\Desktop\csapr5\library-game\obj\Debug\net9.0\ref\library-game.dll
